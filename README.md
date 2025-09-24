@@ -1,6 +1,19 @@
-# Bonsai-BIM
+Bonsai: Modelagem BIM Nativa no Blender
 
-**Bonsai** é um _add-on_ gratuito e open-source para o [[Blender]] que transforma o software em uma plataforma nativa de modelagem [[BIM]], como o [[REVIT]](Building Information Modeling), compatível com o padrão [[IFC]] (Industry Foundation Classes) [Blender Extensions](https://extensions.blender.org/add-ons/bonsai/?utm_source=chatgpt.com)[Apprendre Blender](https://apprendre-blender.com/bonsai-pour-blender-la-puissance-du-bim-open-source/?utm_source=chatgpt.com). Desenvolvido sobre o motor [[IfcOpenShell]], permite criar, editar, visualizar e gerenciar modelos BIM completos diretamente dentro do Blender
+
+
+Este documento descreve o Bonsai, um add-on gratuito e open-source para o Blender que o transforma em uma plataforma de modelagem BIM (Building Information Modeling) nativa, similar ao REVIT, e compatível com o padrão IFC (Industry Foundation Classes). O Bonsai, desenvolvido sobre o motor IfcOpenShell, permite a criação, edição, visualização e gerenciamento de modelos BIM completos diretamente dentro do Blender.
+
+
+
+Introdução ao Bonsai
+
+
+
+O Bonsai representa uma mudança de paradigma para profissionais de arquitetura, engenharia e construção (AEC) que já utilizam o Blender para visualização e renderização. Ao adicionar funcionalidades BIM nativas, o Bonsai elimina a necessidade de alternar entre diferentes softwares para modelagem, análise e documentação de projetos. Isso resulta em um fluxo de trabalho mais eficiente e integrado, aproveitando a flexibilidade e o poder do Blender.
+
+
+<img width="780" height="612" alt="Bonsai_ Modelagem BIM Nativa no Blender - visual selection" src="https://github.com/user-attachments/assets/739759e0-e6df-447b-b899-0f4fb3d6a505" />
 
 
 - [[View and explore]] IFC models, including [[spaces]], [[properties]], and [[relationships]]
